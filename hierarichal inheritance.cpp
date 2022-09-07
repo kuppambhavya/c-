@@ -1,4 +1,6 @@
-#include<iostream>
+#program on hierarichal inheritance
+#done by k.bhavya
+include<iostream>
 using namespace std;
 class base
 {
